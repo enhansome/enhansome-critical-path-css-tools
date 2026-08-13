@@ -1,0 +1,252 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Critical",
+          "description": "by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, Oust and inline-styles)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T08:22:27Z",
+            "owner": "addyosmani",
+            "repo": "critical",
+            "stars": 10253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Penthouse",
+          "description": "by Jonas Ohlsson generates critical-path CSS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2023-12-03T05:48:33Z",
+            "owner": "pocketjoso",
+            "repo": "penthouse",
+            "stars": 2681
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CriticalCSS",
+          "description": "by FilamentGroup finds & outputs critical CSS",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-10-20T20:56:41Z",
+            "owner": "filamentgroup",
+            "repo": "criticalCSS",
+            "stars": 1694
+          }
+        }
+      ],
+      "title": "Node modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ngx_pagespeed",
+          "description": "Nginx module for automatic PageSpeed optimization",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-04-21T14:50:27Z",
+            "owner": "apache",
+            "repo": "incubator-pagespeed-ngx",
+            "stars": 4340
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mod_pagespeed",
+          "description": "Apache module for automatic PageSpeed optimization",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2023-04-21T14:53:27Z",
+            "owner": "apache",
+            "repo": "incubator-pagespeed-mod",
+            "stars": 693
+          }
+        }
+      ],
+      "title": "Server-side modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grunt-critical-css",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-10-20T20:55:32Z",
+            "owner": "filamentgroup",
+            "repo": "grunt-criticalcss",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grunt-critical",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-30T22:33:22Z",
+            "owner": "bezoerb",
+            "repo": "grunt-critical",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grunt-penthouse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-21T14:42:10Z",
+            "owner": "fatso83",
+            "repo": "grunt-penthouse",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Grunt tasks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "isomorphic-style-loader",
+          "description": "for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See React Starter Kit as an example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T12:24:05Z",
+            "owner": "kriasoft",
+            "repo": "isomorphic-style-loader",
+            "stars": 1272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gulp-inline-source",
+          "description": "by Filip Malinowski, replaces tags with inline tags, and replaces tags with their inline content",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-11T14:34:14Z",
+            "owner": "fmal",
+            "repo": "gulp-inline-source",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inline-critical",
+          "description": "by Ben Zörb, inline critical path CSS and load existing stylesheets with",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-12-14T10:51:38Z",
+            "owner": "bezoerb",
+            "repo": "inline-critical",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inline-styles",
+          "description": "by Max Ogden, replaces tags with inline tags + inlines CSS url() calls with data URIs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2014-07-21T14:59:08Z",
+            "owner": "max-mapper",
+            "repo": "inline-styles",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "Inline sources (styles, scripts)"
+    },
+    {
+      "description": "Async loading should be used to fetch the rest of your site-wide styles after you've inlined your critical-path CSS.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "loadCSS",
+          "description": "loads CSS asynchronously using JS. Research that led to this is also available.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-10-20T21:01:34Z",
+            "owner": "filamentgroup",
+            "repo": "loadCSS",
+            "stars": 6640
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "basket.js",
+          "description": "async script/resource loader with support for localStorage caching. Can be extended to load stylesheets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2013-12-26T02:18:42Z",
+            "owner": "andrewwakeling",
+            "repo": "basket-css-example",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "asyncLoader",
+          "description": "async script/stylesheet loader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2014-12-25T15:35:23Z",
+            "owner": "n0mad01",
+            "repo": "asyncLoader",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Async load CSS"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:45.351Z",
+    "original_repository": "addyosmani/critical-path-css-tools",
+    "original_repository_sha": "afb78a5a191fcbf10790c9b101f41ff9b8538012",
+    "enhanced_repository": "enhansome/enhansome-critical-path-css-tools",
+    "enhanced_repository_description": null,
+    "title": "Awesome Critical-path (Above-the-fold) CSS Tools with stars"
+  }
+}
