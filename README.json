@@ -14,7 +14,7 @@
             "last_commit": "2026-08-03T08:22:27Z",
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10254
+            "stars": 10255
           }
         },
         {
@@ -242,7 +242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T23:59:24.224Z",
+    "last_updated": "2026-08-18T00:01:19.965Z",
     "original_repository": "addyosmani/critical-path-css-tools",
     "original_repository_sha": "afb78a5a191fcbf10790c9b101f41ff9b8538012",
     "enhanced_repository": "enhansome/enhansome-critical-path-css-tools",
