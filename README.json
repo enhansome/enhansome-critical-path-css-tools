@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21299916,
             "language": "JavaScript",
             "last_commit": "2026-08-03T08:22:27Z",
             "owner": "addyosmani",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20474738,
             "language": "HTML",
             "last_commit": "2023-12-03T05:48:33Z",
             "owner": "pocketjoso",
@@ -38,18 +40,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21224156,
             "language": "JavaScript",
             "last_commit": "2022-10-20T20:56:41Z",
             "owner": "filamentgroup",
             "repo": "criticalCSS",
-            "stars": 1693
+            "stars": 1692
           }
         }
       ],
       "title": "Node modules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4766638,
             "language": "C++",
             "last_commit": "2023-04-21T14:50:27Z",
             "owner": "apache",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 33489346,
             "language": "C++",
             "last_commit": "2023-04-21T14:53:27Z",
             "owner": "apache",
@@ -83,7 +88,7 @@
       "title": "Server-side modules"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21255113,
             "language": "JavaScript",
             "last_commit": "2022-10-20T20:55:32Z",
             "owner": "filamentgroup",
@@ -106,6 +112,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22136504,
             "language": "HTML",
             "last_commit": "2025-12-30T22:33:22Z",
             "owner": "bezoerb",
@@ -120,6 +127,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20975146,
             "language": "JavaScript",
             "last_commit": "2018-03-21T14:42:10Z",
             "owner": "fatso83",
@@ -131,7 +139,7 @@
       "title": "Grunt tasks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -140,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46555028,
             "language": "JavaScript",
             "last_commit": "2026-08-11T12:24:05Z",
             "owner": "kriasoft",
@@ -154,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17530920,
             "language": "JavaScript",
             "last_commit": "2019-06-11T14:34:14Z",
             "owner": "fmal",
@@ -168,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22547925,
             "language": "HTML",
             "last_commit": "2024-12-14T10:51:38Z",
             "owner": "bezoerb",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20668007,
             "language": "JavaScript",
             "last_commit": "2014-07-21T14:59:08Z",
             "owner": "max-mapper",
@@ -193,7 +205,7 @@
       "title": "Inline sources (styles, scripts)"
     },
     {
-      "description": "Async loading should be used to fetch the rest of your site-wide styles after you've inlined your critical-path CSS.",
+      "description": "Async loading should be used to fetch the rest of your site-wide styles after you've inlined your critical-path CSS.\nNote: The Guardian currently also cache their global styles into localStorage for subsequent page loads. More info in this comment.",
       "items": [
         {
           "node_type": "item",
@@ -202,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20723841,
             "language": "JavaScript",
             "last_commit": "2022-10-20T21:01:34Z",
             "owner": "filamentgroup",
@@ -216,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15443729,
             "language": "JavaScript",
             "last_commit": "2013-12-26T02:18:42Z",
             "owner": "andrewwakeling",
@@ -230,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28484997,
             "language": null,
             "last_commit": "2014-12-25T15:35:23Z",
             "owner": "n0mad01",
@@ -242,8 +257,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T00:00:54.393Z",
+    "last_updated": "2026-08-19T12:22:00.275Z",
     "original_repository": "addyosmani/critical-path-css-tools",
+    "original_repository_id": 22011234,
     "original_repository_sha": "afb78a5a191fcbf10790c9b101f41ff9b8538012",
     "enhanced_repository": "enhansome/enhansome-critical-path-css-tools",
     "enhanced_repository_description": null,
