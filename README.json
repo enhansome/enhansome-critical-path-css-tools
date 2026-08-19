@@ -42,7 +42,7 @@
             "last_commit": "2022-10-20T20:56:41Z",
             "owner": "filamentgroup",
             "repo": "criticalCSS",
-            "stars": 1694
+            "stars": 1693
           }
         }
       ],
@@ -206,7 +206,7 @@
             "last_commit": "2022-10-20T21:01:34Z",
             "owner": "filamentgroup",
             "repo": "loadCSS",
-            "stars": 6637
+            "stars": 6636
           }
         },
         {
@@ -242,7 +242,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T00:01:19.965Z",
+    "last_updated": "2026-08-19T00:00:54.393Z",
     "original_repository": "addyosmani/critical-path-css-tools",
     "original_repository_sha": "afb78a5a191fcbf10790c9b101f41ff9b8538012",
     "enhanced_repository": "enhansome/enhansome-critical-path-css-tools",
