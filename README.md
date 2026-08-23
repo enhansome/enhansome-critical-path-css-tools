@@ -13,7 +13,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## Node modules
 
-* [Critical](https://github.com/addyosmani/critical) ⭐ 10,258 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-03 - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) ⭐ 193 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-02 and inline-styles)
+* [Critical](https://github.com/addyosmani/critical) ⭐ 10,260 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-03 - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) ⭐ 193 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-02 and inline-styles)
 * [Penthouse](https://github.com/pocketjoso/penthouse) ⭐ 2,680 | 🐛 26 | 🌐 HTML | 📅 2023-12-03 - by Jonas Ohlsson generates critical-path CSS
 * [CriticalCSS](https://github.com/filamentgroup/criticalcss) ⚠️ Archived - by FilamentGroup finds & outputs critical CSS
 
@@ -73,8 +73,8 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ## Supplementary tools
 
-* [UnCSS](https://github.com/giakki/uncss) ⭐ 9,402 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18 removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss) ⭐ 3,794 | 🐛 9 | 🌐 HTML | 📅 2023-07-18, [Gulp](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
+* [UnCSS](https://github.com/giakki/uncss) ⭐ 9,401 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18 removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss) ⭐ 3,794 | 🐛 9 | 🌐 HTML | 📅 2023-07-18, [Gulp](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
