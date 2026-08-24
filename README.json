@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T08:22:27Z",
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10261
+            "stars": 10262
           }
         },
         {
@@ -143,6 +143,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "critical-css-casperjs",
+          "description": "CasperJS script to pull critical CSS information from pages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17882617,
+            "language": "JavaScript",
+            "last_commit": "2014-04-01T16:51:51Z",
+            "owner": "ibrennan",
+            "repo": "critical-css-casperjs",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "CasperJS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dr-css-inliner",
+          "description": "PhantomJS script to inline above-the-fold CSS on a page.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 12565610,
+            "language": "JavaScript",
+            "last_commit": "2020-11-17T17:16:32Z",
+            "owner": "drdk",
+            "repo": "dr-css-inliner",
+            "stars": 82
+          }
+        }
+      ],
+      "title": "PhantomJS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "isomorphic-style-loader",
           "description": "for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See React Starter Kit as an example.",
           "children": [],
@@ -254,10 +296,73 @@
         }
       ],
       "title": "Async load CSS"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CSSVacuum",
+          "description": "by ndreckshage",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12687161,
+            "language": null,
+            "last_commit": "2013-09-11T22:18:33Z",
+            "owner": "ndreckshage",
+            "repo": "CSSVacuum",
+            "stars": 45
+          }
+        }
+      ],
+      "title": "Bookmarklets/Extensions"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PSI",
+          "description": "Node module for PageSpeed Insights reporting as part of your build process. Use directly with Gulp or use grunt-pagespeed if a Grunt user. For local testing, a write-up using this task and ngrok is available.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 20199636,
+            "language": "JavaScript",
+            "last_commit": "2021-04-10T00:13:45Z",
+            "owner": "GoogleChromeLabs",
+            "repo": "psi",
+            "stars": 3101
+          }
+        }
+      ],
+      "title": "Render-blocking issues detection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UnCSS",
+          "description": "removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for Grunt, Gulp and other build tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9526392,
+            "language": "JavaScript",
+            "last_commit": "2024-06-18T07:27:49Z",
+            "owner": "uncss",
+            "repo": "uncss",
+            "stars": 9401
+          }
+        }
+      ],
+      "title": "Supplementary tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T00:00:16.092Z",
+    "last_updated": "2026-08-24T14:15:39.726Z",
     "original_repository": "addyosmani/critical-path-css-tools",
     "original_repository_id": 22011234,
     "original_repository_sha": "afb78a5a191fcbf10790c9b101f41ff9b8538012",

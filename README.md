@@ -13,7 +13,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## Node modules
 
-* [Critical](https://github.com/addyosmani/critical) ⭐ 10,261 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-03 - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) ⭐ 193 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-02 and inline-styles)
+* [Critical](https://github.com/addyosmani/critical) ⭐ 10,262 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-03 - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) ⭐ 193 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-02 and inline-styles)
 * [Penthouse](https://github.com/pocketjoso/penthouse) ⭐ 2,680 | 🐛 26 | 🌐 HTML | 📅 2023-12-03 - by Jonas Ohlsson generates critical-path CSS
 * [CriticalCSS](https://github.com/filamentgroup/criticalcss) ⚠️ Archived - by FilamentGroup finds & outputs critical CSS
 
@@ -60,20 +60,20 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ## Bookmarklets/Extensions
 
+* [CSSVacuum](https://github.com/ndreckshage/CSSVacuum) ⭐ 45 | 🐛 2 | 📅 2013-09-11 by ndreckshage
 * [Snippet](https://gist.github.com/PaulKinlan/6284142) by Paul Kinlan. Patrick Hamann has an [exercise](http://patrickhamann.com/workshops/performance/tasks/2_Critical_Path/2_2.html) using the snippet you can try out.
 * [Snippet](https://gist.github.com/scottjehl/b6129da04733e4e0f9a4) by Scott Jehl
-* [CSSVacuum](https://github.com/ndreckshage/CSSVacuum) ⭐ 45 | 🐛 2 | 📅 2013-09-11 by ndreckshage
 
 ## Render-blocking issues detection
 
-* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Online tool that measures the performance of a page for mobile devices and desktop devices. It fetches the url twice, once with a mobile user-agent, and once with a desktop-user agent.
 * [PSI](https://github.com/addyosmani/psi) ⚠️ Archived - Node module for PageSpeed Insights reporting as part of your build process. Use directly with Gulp or use [grunt-pagespeed](https://github.com/jrcryer/grunt-pagespeed) ⭐ 457 | 🐛 12 | 🌐 CoffeeScript | 📅 2022-12-07 if a Grunt user. For local testing, a write-up using this task and [ngrok](http://www.jamescryer.com/2014/06/12/grunt-pagespeed-and-ngrok-locally-testing/) is available.
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) - Online tool that measures the performance of a page for mobile devices and desktop devices. It fetches the url twice, once with a mobile user-agent, and once with a desktop-user agent.
 * [PageSpeed Insights DevTools extension](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli?hl=en) - Chrome extension for running PageSpeed tests from inside the browser.
 * [PageSpeed Insights Checker for mobile extension](https://chrome.google.com/webstore/detail/pagespeed-insights-checke/mkjmodmicmpjedhoekkmafdgpocdkbna?hl=en) - checks Mobile PageSpeed score for every page and gives you a handy preview.
 
 ## Supplementary tools
 
-* [UnCSS](https://github.com/giakki/uncss) ⭐ 9,401 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18 removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss) ⭐ 3,794 | 🐛 9 | 🌐 HTML | 📅 2023-07-18, [Gulp](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
+* [UnCSS](https://github.com/giakki/uncss) ⭐ 9,401 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18 removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss) ⭐ 3,793 | 🐛 9 | 🌐 HTML | 📅 2023-07-18, [Gulp](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
 ***
 
