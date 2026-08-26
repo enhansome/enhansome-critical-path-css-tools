@@ -15,7 +15,7 @@
             "last_commit": "2026-08-03T08:22:27Z",
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10263
+            "stars": 10264
           }
         },
         {
@@ -354,7 +354,7 @@
             "last_commit": "2024-06-18T07:27:49Z",
             "owner": "uncss",
             "repo": "uncss",
-            "stars": 9400
+            "stars": 9401
           }
         }
       ],
@@ -362,7 +362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:06:32.406Z",
+    "last_updated": "2026-08-26T00:02:14.260Z",
     "original_repository": "addyosmani/critical-path-css-tools",
     "original_repository_id": 22011234,
     "original_repository_sha": "afb78a5a191fcbf10790c9b101f41ff9b8538012",
