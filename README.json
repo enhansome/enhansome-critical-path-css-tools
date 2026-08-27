@@ -362,9 +362,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:07:48.692Z",
-    "original_repository": "addyosmani/critical-path-css-tools",
-    "original_repository_id": 22011234,
+    "last_updated": "2026-08-27T11:32:32.643Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 22011234,
+      "language": null,
+      "last_commit": "2022-07-18T03:24:14Z",
+      "owner": "addyosmani",
+      "repo": "critical-path-css-tools",
+      "stars": 1164
+    },
     "original_repository_sha": "afb78a5a191fcbf10790c9b101f41ff9b8538012",
     "enhanced_repository": "enhansome/enhansome-critical-path-css-tools",
     "enhanced_repository_description": null,
