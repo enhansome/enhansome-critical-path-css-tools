@@ -15,8 +15,9 @@
             "last_commit": "2026-08-03T08:22:27Z",
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10265
-          }
+            "stars": 10266
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "pocketjoso",
             "repo": "penthouse",
             "stars": 2680
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "filamentgroup",
             "repo": "criticalCSS",
             "stars": 1692
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "Node modules"
@@ -67,7 +70,8 @@
             "owner": "apache",
             "repo": "incubator-pagespeed-ngx",
             "stars": 4339
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "apache",
             "repo": "incubator-pagespeed-mod",
             "stars": 692
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "Server-side modules"
@@ -103,7 +108,8 @@
             "owner": "filamentgroup",
             "repo": "grunt-criticalcss",
             "stars": 520
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "bezoerb",
             "repo": "grunt-critical",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "fatso83",
             "repo": "grunt-penthouse",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "Grunt tasks"
@@ -154,7 +162,8 @@
             "owner": "ibrennan",
             "repo": "critical-css-casperjs",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "CasperJS"
@@ -175,7 +184,8 @@
             "owner": "drdk",
             "repo": "dr-css-inliner",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "PhantomJS"
@@ -196,7 +206,8 @@
             "owner": "kriasoft",
             "repo": "isomorphic-style-loader",
             "stars": 1272
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -211,7 +222,8 @@
             "owner": "fmal",
             "repo": "gulp-inline-source",
             "stars": 208
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -226,7 +238,8 @@
             "owner": "bezoerb",
             "repo": "inline-critical",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -241,7 +254,8 @@
             "owner": "max-mapper",
             "repo": "inline-styles",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "Inline sources (styles, scripts)"
@@ -261,8 +275,9 @@
             "last_commit": "2022-10-20T21:01:34Z",
             "owner": "filamentgroup",
             "repo": "loadCSS",
-            "stars": 6636
-          }
+            "stars": 6635
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -277,7 +292,8 @@
             "owner": "andrewwakeling",
             "repo": "basket-css-example",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         },
         {
           "node_type": "item",
@@ -292,7 +308,8 @@
             "owner": "n0mad01",
             "repo": "asyncLoader",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "Async load CSS"
@@ -313,7 +330,8 @@
             "owner": "ndreckshage",
             "repo": "CSSVacuum",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "Bookmarklets/Extensions"
@@ -334,7 +352,8 @@
             "owner": "GoogleChromeLabs",
             "repo": "psi",
             "stars": 3101
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "Render-blocking issues detection"
@@ -355,14 +374,15 @@
             "owner": "uncss",
             "repo": "uncss",
             "stars": 9402
-          }
+          },
+          "first_seen": "2026-08-28T07:06:24.097Z"
         }
       ],
       "title": "Supplementary tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:32:32.643Z",
+    "last_updated": "2026-08-28T07:06:24.097Z",
     "original_repository_info": {
       "archived": false,
       "id": 22011234,
