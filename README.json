@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract & Inline Critical-path CSS in HTML pages",
+            "homepage": null,
             "id": 21299916,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-03T08:22:27Z",
+            "open_issues": 37,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10266
+            "stars": 10266,
+            "topics": [
+              "critical-css",
+              "critical-path-css",
+              "critical-path-styles",
+              "css",
+              "inline-css",
+              "inline-styles"
+            ]
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -26,12 +38,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate critical css for your web pages",
+            "homepage": "https://jonassebastianohlsson.com/criticalpathcssgenerator",
             "id": 20474738,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2023-12-03T05:48:33Z",
+            "open_issues": 26,
             "owner": "pocketjoso",
             "repo": "penthouse",
-            "stars": 2680
+            "stars": 2680,
+            "topics": [
+              "css",
+              "nodejs",
+              "performance",
+              "puppeteer",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -42,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Finds the Above the Fold CSS for your page, and outputs it into a file",
+            "homepage": null,
             "id": 21224156,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-20T20:56:41Z",
+            "open_issues": 0,
             "owner": "filamentgroup",
             "repo": "criticalCSS",
-            "stars": 1692
+            "stars": 1692,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -64,12 +92,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automatic PageSpeed optimization module for Nginx",
+            "homepage": "http://ngxpagespeed.com/",
             "id": 4766638,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-21T14:50:27Z",
+            "open_issues": 353,
             "owner": "apache",
             "repo": "incubator-pagespeed-ngx",
-            "stars": 4339
+            "stars": 4339,
+            "topics": [
+              "pagespeed"
+            ]
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -80,12 +115,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Apache module for rewriting web pages to reduce latency and bandwidth.",
+            "homepage": "http://modpagespeed.com",
             "id": 33489346,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-21T14:53:27Z",
+            "open_issues": 524,
             "owner": "apache",
             "repo": "incubator-pagespeed-mod",
-            "stars": 692
+            "stars": 692,
+            "topics": [
+              "pagespeed"
+            ]
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -102,12 +144,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Grunt wrapper for criticalcss",
+            "homepage": null,
             "id": 21255113,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-20T20:55:32Z",
+            "open_issues": 0,
             "owner": "filamentgroup",
             "repo": "grunt-criticalcss",
-            "stars": 520
+            "stars": 520,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -118,12 +165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grunt task to extract & inline critical-path CSS from HTML",
+            "homepage": null,
             "id": 22136504,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-30T22:33:22Z",
+            "open_issues": 20,
             "owner": "bezoerb",
             "repo": "grunt-critical",
-            "stars": 156
+            "stars": 156,
+            "topics": [
+              "above-the-fold",
+              "critical-css",
+              "critical-path",
+              "grunt"
+            ]
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -134,12 +191,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A grunt plugin that uses Penthouse to extract critical path css",
+            "homepage": null,
             "id": 20975146,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-03-21T14:42:10Z",
+            "open_issues": 0,
             "owner": "fatso83",
             "repo": "grunt-penthouse",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -156,12 +218,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CasperJS script to pull critical CSS information from your page.",
+            "homepage": null,
             "id": 17882617,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-04-01T16:51:51Z",
+            "open_issues": 0,
             "owner": "ibrennan",
             "repo": "critical-css-casperjs",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -178,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED! PhantomJS script to inline above-the-fold CSS for a webpage.",
+            "homepage": null,
             "id": 12565610,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-11-17T17:16:32Z",
+            "open_issues": 1,
             "owner": "drdk",
             "repo": "dr-css-inliner",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -200,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS style loader for Webpack that is optimized for isomorphic (universal) web apps.",
+            "homepage": "https://reactstarter.com",
             "id": 46555028,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T12:24:05Z",
+            "open_issues": 81,
             "owner": "kriasoft",
             "repo": "isomorphic-style-loader",
-            "stars": 1272
+            "stars": 1272,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -216,12 +293,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inline flagged js & css sources.",
+            "homepage": null,
             "id": 17530920,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-11T14:34:14Z",
+            "open_issues": 19,
             "owner": "fmal",
             "repo": "gulp-inline-source",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -232,12 +314,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inline critical path CSS and async load existing stylesheets",
+            "homepage": null,
             "id": 22547925,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-14T10:51:38Z",
+            "open_issues": 10,
             "owner": "bezoerb",
             "repo": "inline-critical",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "critical-path",
+              "css",
+              "inline"
+            ]
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -248,12 +339,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "replaces link tags with inline style tags + inlines CSS url() calls with data URIs",
+            "homepage": null,
             "id": 20668007,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-07-21T14:59:08Z",
+            "open_issues": 2,
             "owner": "max-mapper",
             "repo": "inline-styles",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -270,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Load CSS asynchronously",
+            "homepage": null,
             "id": 20723841,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-10-20T21:01:34Z",
+            "open_issues": 0,
             "owner": "filamentgroup",
             "repo": "loadCSS",
-            "stars": 6635
+            "stars": 6635,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -286,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An example of how you can load CSS using basket.js.",
+            "homepage": null,
             "id": 15443729,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2013-12-26T02:18:42Z",
+            "open_issues": 1,
             "owner": "andrewwakeling",
             "repo": "basket-css-example",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         },
@@ -302,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 28484997,
             "language": null,
+            "license": null,
             "last_commit": "2014-12-25T15:35:23Z",
+            "open_issues": 0,
             "owner": "n0mad01",
             "repo": "asyncLoader",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -324,12 +435,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "optimize your critical rendering path",
+            "homepage": null,
             "id": 12687161,
             "language": null,
+            "license": "MIT",
             "last_commit": "2013-09-11T22:18:33Z",
+            "open_issues": 2,
             "owner": "ndreckshage",
             "repo": "CSSVacuum",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -346,12 +462,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PageSpeed Insights Reporting for Node",
+            "homepage": null,
             "id": 20199636,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-10T00:13:45Z",
+            "open_issues": 15,
             "owner": "GoogleChromeLabs",
             "repo": "psi",
-            "stars": 3101
+            "stars": 3101,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -368,12 +489,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remove unused styles from CSS",
+            "homepage": null,
             "id": 9526392,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-18T07:27:49Z",
+            "open_issues": 58,
             "owner": "uncss",
             "repo": "uncss",
-            "stars": 9402
+            "stars": 9402,
+            "topics": [
+              "build-tool",
+              "cleanup",
+              "css",
+              "javascript",
+              "postcss",
+              "stylesheets",
+              "uncss",
+              "unusedcss"
+            ]
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
         }
@@ -382,15 +517,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:06:24.097Z",
+    "last_updated": "2026-08-29T04:33:00.026Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Tools to prioritize above-the-fold (critical-path) CSS",
+      "homepage": null,
       "id": 22011234,
       "language": null,
+      "license": null,
       "last_commit": "2022-07-18T03:24:14Z",
+      "open_issues": 5,
       "owner": "addyosmani",
       "repo": "critical-path-css-tools",
-      "stars": 1164
+      "stars": 1164,
+      "topics": []
     },
     "original_repository_sha": "afb78a5a191fcbf10790c9b101f41ff9b8538012",
     "enhanced_repository": "enhansome/enhansome-critical-path-css-tools",
