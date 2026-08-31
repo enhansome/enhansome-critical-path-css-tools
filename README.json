@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10267,
+            "stars": 10266,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:45:26.938Z",
+    "last_updated": "2026-08-31T01:39:50.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
