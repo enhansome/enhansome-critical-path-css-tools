@@ -471,7 +471,7 @@
             "open_issues": 15,
             "owner": "GoogleChromeLabs",
             "repo": "psi",
-            "stars": 3101,
+            "stars": 3100,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T02:04:40.476Z",
+    "last_updated": "2026-09-02T01:27:28.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
