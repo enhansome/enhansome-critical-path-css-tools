@@ -13,7 +13,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## Node modules
 
-* [Critical](https://github.com/addyosmani/critical) ⭐ 10,269 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-03 - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) ⭐ 193 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-02 and inline-styles)
+* [Critical](https://github.com/addyosmani/critical) ⭐ 10,270 | 🐛 37 | 🌐 JavaScript | 📅 2026-08-03 - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) ⭐ 193 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-02 and inline-styles)
 * [Penthouse](https://github.com/pocketjoso/penthouse) ⭐ 2,681 | 🐛 26 | 🌐 HTML | 📅 2023-12-03 - by Jonas Ohlsson generates critical-path CSS
 * [CriticalCSS](https://github.com/filamentgroup/criticalcss) ⚠️ Archived - by FilamentGroup finds & outputs critical CSS
 
@@ -38,7 +38,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## Inline sources (styles, scripts)
 
-* [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) ⭐ 1,272 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-11 for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,673 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-31 as an example.
+* [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) ⭐ 1,272 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-11 for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,672 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-31 as an example.
 * [gulp-inline-source](https://github.com/fmal/gulp-inline-source) ⭐ 208 | 🐛 19 | 🌐 JavaScript | 📅 2019-06-11 - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="">` tags with their inline content
 * [inline-critical](https://github.com/bezoerb/inline-critical) ⭐ 116 | 🐛 10 | 🌐 HTML | 📅 2024-12-14 - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
 * [inline-styles](https://github.com/maxogden/inline-styles) ⭐ 23 | 🐛 2 | 🌐 JavaScript | 📅 2014-07-21 - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs
@@ -77,4 +77,4 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
