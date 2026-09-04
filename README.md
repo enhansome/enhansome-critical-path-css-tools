@@ -38,7 +38,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## Inline sources (styles, scripts)
 
-* [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) ⭐ 1,272 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-11 for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,672 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-31 as an example.
+* [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) ⭐ 1,272 | 🐛 81 | 🌐 JavaScript | 📅 2026-08-11 for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit](https://github.com/kriasoft/react-starter-kit) ⭐ 23,674 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-31 as an example.
 * [gulp-inline-source](https://github.com/fmal/gulp-inline-source) ⭐ 208 | 🐛 19 | 🌐 JavaScript | 📅 2019-06-11 - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="">` tags with their inline content
 * [inline-critical](https://github.com/bezoerb/inline-critical) ⭐ 116 | 🐛 10 | 🌐 HTML | 📅 2024-12-14 - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
 * [inline-styles](https://github.com/maxogden/inline-styles) ⭐ 23 | 🐛 2 | 🌐 JavaScript | 📅 2014-07-21 - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs
@@ -73,8 +73,8 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ## Supplementary tools
 
-* [UnCSS](https://github.com/giakki/uncss) ⭐ 9,401 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18 removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss) ⭐ 3,792 | 🐛 9 | 🌐 HTML | 📅 2023-07-18, [Gulp](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
+* [UnCSS](https://github.com/giakki/uncss) ⭐ 9,400 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18 removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss) ⭐ 3,792 | 🐛 9 | 🌐 HTML | 📅 2023-07-18, [Gulp](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
