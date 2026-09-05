@@ -47,7 +47,7 @@
             "open_issues": 26,
             "owner": "pocketjoso",
             "repo": "penthouse",
-            "stars": 2681,
+            "stars": 2682,
             "topics": [
               "css",
               "nodejs",
@@ -375,7 +375,7 @@
             "open_issues": 0,
             "owner": "filamentgroup",
             "repo": "loadCSS",
-            "stars": 6634,
+            "stars": 6633,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T01:24:51.930Z",
+    "last_updated": "2026-09-05T01:27:27.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
