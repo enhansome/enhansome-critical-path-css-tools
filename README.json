@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10270,
+            "stars": 10271,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -471,7 +471,7 @@
             "open_issues": 15,
             "owner": "GoogleChromeLabs",
             "repo": "psi",
-            "stars": 3100,
+            "stars": 3099,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
@@ -498,7 +498,7 @@
             "open_issues": 58,
             "owner": "uncss",
             "repo": "uncss",
-            "stars": 9400,
+            "stars": 9399,
             "topics": [
               "build-tool",
               "cleanup",
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T01:27:27.657Z",
+    "last_updated": "2026-09-06T01:21:18.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
