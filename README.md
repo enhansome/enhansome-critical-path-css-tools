@@ -73,8 +73,8 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ## Supplementary tools
 
-* [UnCSS](https://github.com/giakki/uncss) ⭐ 9,399 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18 removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss) ⭐ 3,792 | 🐛 9 | 🌐 HTML | 📅 2023-07-18, [Gulp](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
+* [UnCSS](https://github.com/giakki/uncss) ⭐ 9,398 | 🐛 58 | 🌐 JavaScript | 📅 2024-06-18 removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss) ⭐ 3,791 | 🐛 9 | 🌐 HTML | 📅 2023-07-18, [Gulp](https://github.com/ben-eb/gulp-uncss) ⚠️ Archived and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
