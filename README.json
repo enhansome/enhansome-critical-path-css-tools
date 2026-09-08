@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10271,
+            "stars": 10273,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -277,8 +277,8 @@
             "id": 46555028,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-11T12:24:05Z",
-            "open_issues": 81,
+            "last_commit": "2026-09-07T07:17:23Z",
+            "open_issues": 82,
             "owner": "kriasoft",
             "repo": "isomorphic-style-loader",
             "stars": 1272,
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T01:19:32.098Z",
+    "last_updated": "2026-09-08T01:27:44.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
