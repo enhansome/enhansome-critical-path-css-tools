@@ -15,11 +15,11 @@
             "id": 21299916,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T16:23:41Z",
+            "last_commit": "2026-09-12T07:43:08Z",
             "open_issues": 35,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10272,
+            "stars": 10271,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -101,7 +101,7 @@
             "open_issues": 353,
             "owner": "apache",
             "repo": "incubator-pagespeed-ngx",
-            "stars": 4337,
+            "stars": 4336,
             "topics": [
               "pagespeed"
             ]
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:36:26.572Z",
+    "last_updated": "2026-09-13T01:26:52.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
