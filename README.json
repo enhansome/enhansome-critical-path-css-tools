@@ -19,7 +19,7 @@
             "open_issues": 35,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10274,
+            "stars": 10275,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -498,7 +498,7 @@
             "open_issues": 58,
             "owner": "uncss",
             "repo": "uncss",
-            "stars": 9397,
+            "stars": 9398,
             "topics": [
               "build-tool",
               "cleanup",
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:55:35.766Z",
+    "last_updated": "2026-09-16T01:45:13.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
