@@ -16,7 +16,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-09-13T07:55:29Z",
-            "open_issues": 35,
+            "open_issues": 36,
             "owner": "addyosmani",
             "repo": "critical",
             "stars": 10275,
@@ -47,7 +47,7 @@
             "open_issues": 26,
             "owner": "pocketjoso",
             "repo": "penthouse",
-            "stars": 2681,
+            "stars": 2680,
             "topics": [
               "css",
               "nodejs",
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:45:13.270Z",
+    "last_updated": "2026-09-17T01:45:56.491Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
