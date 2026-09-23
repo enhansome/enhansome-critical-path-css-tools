@@ -13,7 +13,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## Node modules
 
-* [Critical](https://github.com/addyosmani/critical) ⭐ 10,275 | 🐛 36 | 🌐 JavaScript | 📅 2026-09-13 - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) ⭐ 193 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-02 and inline-styles)
+* [Critical](https://github.com/addyosmani/critical) ⭐ 10,276 | 🐛 36 | 🌐 JavaScript | 📅 2026-09-13 - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust](https://github.com/addyosmani/oust) ⭐ 193 | 🐛 7 | 🌐 JavaScript | 📅 2026-04-02 and inline-styles)
 * [Penthouse](https://github.com/pocketjoso/penthouse) ⭐ 2,679 | 🐛 26 | 🌐 HTML | 📅 2023-12-03 - by Jonas Ohlsson generates critical-path CSS
 * [CriticalCSS](https://github.com/filamentgroup/criticalcss) ⚠️ Archived - by FilamentGroup finds & outputs critical CSS
 
@@ -77,4 +77,4 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
