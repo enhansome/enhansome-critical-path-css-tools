@@ -140,7 +140,7 @@
         {
           "node_type": "item",
           "title": "grunt-critical-css",
-          "description": null,
+          "description": "filamentgroup/grunt-criticalcss",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -161,7 +161,7 @@
         {
           "node_type": "item",
           "title": "grunt-critical",
-          "description": null,
+          "description": "bezoerb/grunt-critical",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -187,7 +187,7 @@
         {
           "node_type": "item",
           "title": "grunt-penthouse",
-          "description": null,
+          "description": "fatso83/grunt-penthouse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:22:26.909Z",
+    "last_updated": "2026-10-03T04:39:26.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
