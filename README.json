@@ -47,7 +47,7 @@
             "open_issues": 26,
             "owner": "pocketjoso",
             "repo": "penthouse",
-            "stars": 2678,
+            "stars": 2679,
             "topics": [
               "css",
               "nodejs",
@@ -281,7 +281,7 @@
             "open_issues": 83,
             "owner": "kriasoft",
             "repo": "isomorphic-style-loader",
-            "stars": 1272,
+            "stars": 1273,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T03:00:34.445Z",
+    "last_updated": "2026-10-09T03:07:43.767Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
@@ -526,7 +526,7 @@
       "language": null,
       "license": null,
       "last_commit": "2022-07-18T03:24:14Z",
-      "open_issues": 6,
+      "open_issues": 5,
       "owner": "addyosmani",
       "repo": "critical-path-css-tools",
       "stars": 1164,
