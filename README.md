@@ -77,4 +77,4 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
