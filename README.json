@@ -15,11 +15,11 @@
             "id": 21299916,
             "language": "JavaScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T04:14:22Z",
+            "last_commit": "2026-10-25T02:14:46Z",
             "open_issues": 36,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10293,
+            "stars": 10296,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:44:25.224Z",
+    "last_updated": "2026-10-26T01:48:31.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
