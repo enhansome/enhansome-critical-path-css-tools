@@ -16,10 +16,10 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-25T02:14:46Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10296,
+            "stars": 10297,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -375,7 +375,7 @@
             "open_issues": 0,
             "owner": "filamentgroup",
             "repo": "loadCSS",
-            "stars": 6622,
+            "stars": 6623,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T01:48:31.422Z",
+    "last_updated": "2026-10-27T02:27:51.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
