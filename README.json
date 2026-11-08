@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T03:15:17.550Z",
+    "last_updated": "2026-11-08T02:45:03.492Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
@@ -529,7 +529,7 @@
       "open_issues": 6,
       "owner": "addyosmani",
       "repo": "critical-path-css-tools",
-      "stars": 1163,
+      "stars": 1164,
       "topics": []
     },
     "original_repository_sha": "afb78a5a191fcbf10790c9b101f41ff9b8538012",
