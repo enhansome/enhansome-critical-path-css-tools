@@ -19,7 +19,7 @@
             "open_issues": 37,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10300,
+            "stars": 10298,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -375,7 +375,7 @@
             "open_issues": 0,
             "owner": "filamentgroup",
             "repo": "loadCSS",
-            "stars": 6620,
+            "stars": 6619,
             "topics": []
           },
           "first_seen": "2026-08-28T07:06:24.097Z"
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T03:01:35.814Z",
+    "last_updated": "2026-11-10T04:48:46.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
