@@ -498,7 +498,7 @@
             "open_issues": 58,
             "owner": "uncss",
             "repo": "uncss",
-            "stars": 9388,
+            "stars": 9387,
             "topics": [
               "build-tool",
               "cleanup",
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T04:21:56.624Z",
+    "last_updated": "2026-11-13T03:38:50.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
