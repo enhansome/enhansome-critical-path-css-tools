@@ -19,7 +19,7 @@
             "open_issues": 36,
             "owner": "addyosmani",
             "repo": "critical",
-            "stars": 10306,
+            "stars": 10308,
             "topics": [
               "critical-css",
               "critical-path-css",
@@ -101,7 +101,7 @@
             "open_issues": 353,
             "owner": "apache",
             "repo": "incubator-pagespeed-ngx",
-            "stars": 4325,
+            "stars": 4324,
             "topics": [
               "pagespeed"
             ]
@@ -498,7 +498,7 @@
             "open_issues": 58,
             "owner": "uncss",
             "repo": "uncss",
-            "stars": 9384,
+            "stars": 9383,
             "topics": [
               "build-tool",
               "cleanup",
@@ -517,7 +517,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T05:29:50.297Z",
+    "last_updated": "2026-11-27T05:25:32.379Z",
     "original_repository_info": {
       "archived": false,
       "description": "Tools to prioritize above-the-fold (critical-path) CSS",
